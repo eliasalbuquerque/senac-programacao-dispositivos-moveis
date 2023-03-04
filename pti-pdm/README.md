@@ -1,11 +1,23 @@
-# Sample Snack app
+# SENAC - Produção Textual Individual
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+## Criação de Componentes Funcionais
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+Considere um cenário onde uma rede de Fast Food pretende incrementar as
+vendas através da adoção de um aplicativo próprio de delivery. A equipe de
+desenvolvimento iniciou a análise do sistema e projetou toda a arquitetura da
+aplicação. Cada membro da equipe ficou responsável pela criação de um
+componente do app. Os designers da empresa prototiparam a interface, conforme
+imagem apresentada
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+Baseado na descrição do texto base, escolha e crie um componente utilizando
+React Native.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+<img src="assets/Componente-de-produto.png" alt="Image" height="300">
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## Resultado final
+
+![CardProduto.png](assets/CardProduto.png "Imagem do componente criado. 3 cards contendo informações do lanche e a imagem do lanche ao lado.")
+
+Componente criado executado no celular:
+
+<img src="assets/Componente_criado_executado_no_celular.gif" alt="Image" height="500">
