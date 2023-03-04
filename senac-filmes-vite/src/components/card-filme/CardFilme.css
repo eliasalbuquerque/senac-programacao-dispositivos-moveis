@@ -1,0 +1,25 @@
+.CardFilme {
+    background-color: #494949;
+    width: 15rem;
+    height: 31rem;
+    border-radius: 10px;
+    padding: .5rem;
+}
+
+.detalhes {
+    margin-block: .5rem;
+    margin-left: .5rem;
+    padding: .58rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 10px;
+    border: #005594 solid 3px;
+    background: linear-gradient(90deg, #181818 5%, #181818 60%, #333333 100%);
+}
+
+.botao {
+    margin-block: .5rem;
+    margin-left: .5rem;
+    border: #005594 solid 3px;
+    background: linear-gradient(90deg, rgb(45, 40, 128) 5%, rgb(89, 89, 167) 50%, #3798acfd 100%);
+}

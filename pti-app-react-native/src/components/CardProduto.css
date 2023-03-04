@@ -1,0 +1,52 @@
+.card {
+    /* border: 1px solid #bd1212; */
+    padding: .5em;
+    border-radius: .5rem;
+    margin-bottom: 2rem;
+    display: flex;
+    background-color: whitesmoke;
+    /* box-shadow: [inset][h-offset][v-offset][blur][spread][color]; */
+}
+
+.text {
+    /* border: 1px solid #336fc9; */
+    text-align: left;
+    line-height: .3;
+}
+
+.nome-lanche {
+    /* border: 1px solid blue; */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20pt;
+    color: rgb(54, 53, 53);
+    line-height: .8;
+}
+
+.calorias {
+    /* border: 1px solid blue; */
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;   
+    font-size: 14pt; 
+    font-weight: 600;
+}
+
+.valor {
+    /* border: 1px solid blue; */
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16pt;
+    font-weight: 900;
+    color: orange;
+}
+
+.box-img {
+    /* border: 1px solid #336fc9; */
+    margin: auto;
+}
+
+.logo {
+    /* border: 1px dashed #336fc9; */
+    height: 5em;
+    max-height: fit-content;
+    padding: 1.5em;
+  }
