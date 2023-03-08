@@ -1,5 +1,7 @@
 import { Text, View, StyleSheet, Image } from 'react-native';
 
+
+
 export default function CardProduto(props) {
   return (
     <View style={styles.container}>
